@@ -8,5 +8,4 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
   title = 'jenkinsTestWithAngular';
-  this.state.a=10;
 }
